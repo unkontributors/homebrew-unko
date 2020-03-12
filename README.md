@@ -2,5 +2,5 @@
 
 ```
 $ brew tap unkontributors/unko
-$ brew install super_unko
+$ brew install --HEAD super_unko
 ```
