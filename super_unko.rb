@@ -4,8 +4,6 @@ class SuperUnko < Formula
   url "https://github.com/unkontributors/super_unko.git", :branch => "oshiri"
   head "https://github.com/unkontributors/super_unko.git", :branch => "oshiri"
 
-  bottle :unneeded
-
   def install
     system "./install.sh", prefix
   end
